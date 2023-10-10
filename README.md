@@ -1,8 +1,8 @@
 <div align="center">
 Bem vindo!
 <br/>Este repositório é destinado ao conteúdo do
-<h1><img height="200vh" src="img/logo.webp"></h1>
-Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
+<h1><img height="300vh" src="img/logo.webp"></h1>
+Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
 <!-- <h3>Andamento do Processo:</h3>
 <img height="300vh" src="#"> -->
 <!-- https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main -->
@@ -10,7 +10,7 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 
 # #1 Princípios de Desenvolvimento Ágil e Colaborativo
 
-- [ ] Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
+- [X] Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
 - [ ] Trabalhando em Equipes Ágeis
 - [ ] Versionamento de Código com Git e GitHub
 - [ ] Desafios de Projetos: Crie Um Portfólio Vencedor
@@ -43,83 +43,66 @@ Bootcamp Potência Tech powered by iFood <br/> Java Beginners</h1>
 # #3 Dominando Estruturas de Controle
 
 - [ ] Teste
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
 
 <br/>
 
- ---
- ---
- ---
-# #4 Dominando Algoritmos Básicos com Desafios de Código Java
+# #4 Dominando Estruturas de Controle
 
-### [Clique aqui para acessar TODOS os Desafios deste Módulo]()
 
-- [ ] Desafio: Os números são iguais? [Clique aqui para acessar o Código.]()
-- [ ] Desafio: Somando múltiplos. [Clique aqui para acessar o Código.]()
-- [ ] Desafio: Uma chamada recursiva. [Clique aqui para acessar o Código]()
-- [ ] Desafio: FizzBuzz. [Clique aqui para acessar o Código.](/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/FizzBuzz.java)
-- [ ] Desafio: Busca Sequencial. [Clique aqui para acessar o Código.](/tree/main/desafios-de-codigo/modulo-4-desafios-basicos/BuscaSequencial.java)
+
+- [ ] Introdução as Estruturas de Controle
+- [ ] Trabalhando Com Estruturas Condicionais (if, else if, else)
+- [ ] Trabalhando Com Estruturas de Decisão (Estrutura Switch Case)
+- [ ] Trabalhando Com Estruturas de Repetição (for, while, do-while)
+- [ ] **Desafio:** Classificador de Nível de Herói [Clique aqui para acessar o Código.](/tree/main/desafios-de-projeto/nivelHeroi.js)
+- [ ] Parabéns Por Dominar as Estruturas de Controle
 
 <br/>
 
-# #5 Programação Orientada a Objetos com Java
+# #5 Trabalhando com Funções
 
-- [ ] Programação Orientada a Objetos
-- [ ] Trabalhando com Colletions Java
-- [ ] Debugging Java
-- [ ] Tratamento de Exceções em Java
-- [ ] Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-
-<br/>
-
-# #6 Ganhando Produtividade com Spring Framework
-
-- [ ] Principais Protocolos de Comunicação da Internet
-- [ ] Gerenciamento de Dependências e Build em Java com Maven
-- [ ] Imersão no Spring Framework com Spring Boot
-- [ ] Criando uma API REST Documentada com Spring Web e Swagger
-- [ ] Explorando Padrões de Projetos na Prática com Java
+- [ ] Introdução ao Mundo de Funções
+- [ ] O Que São Funções e Como Criar
+- [ ] Funções com Parâmetros
+- [ ] Funções com Retorno
+- [ ] **Desafio:** Calculadora de Partidas Rankeadas [Clique aqui para acessar o Código.](/tree/main/desafios-de-projeto/calculadoraPartidas.js)
+- [ ] Parabéns Por Dominar Funções
 
 <br/>
 
-# #7 Dominando Algoritmos Intermediários com Desafios de Código Java
+# #6 Aprimorando Sua Lógica de Programação com Desafios de Código
 
-### [Clique aqui para acessar TODOS os Desafios deste Módulo]()
-
-- [ ] Desafio: Checagem de Palíndromo [Clique aqui para acessar o Código.]()
-- [ ] Desafio: Validação de Parênteses [Clique aqui para acessar o Código.]()
-- [ ] Desafio: Quadrados Perfeitos [Clique aqui para acessar o Código.]()
-- [ ] Desafio: Classificando Matrizes [Clique aqui para acessar o Código.]()
-- [ ] Desafio: Fatorial Desajeitado [Clique aqui para acessar o Código.]()
+- [ ] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+- [ ] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.]()
+- [ ] **Desafio:** Dominando Operadores com JavaScript [Clique aqui para acessar o Código.]()
+- [ ] **Desafio:** Explorando Condicionais com JavaScript [Clique aqui para acessar o Código.]()
+- [ ] **Desafio:** Praticando Laços de Repetição com JavaScript [Clique aqui para acessar o Código.]()
+- [ ] **Desafio:** Dominando Funções com JavaScript [Clique aqui para acessar o Código.]()
 
 <br/>
 
-# #8 Fortalecendo sua Carreira Profissional
+# #7 Estruturas de Dados e Objetos
 
-- [ ] Deixando Seu LinkedIn Atrativo
-- [ ] Turbine Seu Currículo na DIO
-- [ ] Trabalhando em Equipes Ágeis
-- [ ] Transformando seu Conhecimento em Artigos Técnicos
-- [ ] Se Preparando Para Uma Entrevista
-- [ ] Convite para o Minha Carreira Tech | Potência Tech powered by iFood
+- [ ] Introdução Ao Mundo Dos Objetos
+- [ ] Estrutura de Dados JSON
+- [ ] O Que São Classes e Objetos
+- [ ] **Desafio:** Escrevendo as Classes de Um Jogo [Clique aqui para acessar o Código.]()
+- [ ] Parabéns Por Dominar as Estruturas de Dados
+- [ ] Avalie o Bootcamp Potência Tech iFood
 
 <br/>
 
 <div align="center">
-
-# Bootcamp Concluído!
-
-<img src="https://hermes.digitalinnovation.one/certificates/cover/.jpg">
-
-
-
-<img height="200vh" src=""><br>
-<a href="https://www.linkedin.com/in/htonioni/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank">
-</a>
-<a href = "mailto:htonioni@outlook.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
+    <h1># Bootcamp Concluído!</h1>
+    <a href="https://www.linkedin.com/in/htonioni/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank">
+    </a>
+    <a href = "mailto:htonioni@outlook.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
+    <img src="https://hermes.digitalinnovation.one/certificates/cover/.jpg">
+    <img height="200vh" src=""><br>
 
 </div>
