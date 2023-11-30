@@ -11,28 +11,28 @@ Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
 # #1 Princípios de Desenvolvimento Ágil e Colaborativo
 
 - [X] Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!
-- [ ] Trabalhando em Equipes Ágeis
-- [ ] Versionamento de Código com Git e GitHub
-- [ ] Desafios de Projetos: Crie Um Portfólio Vencedor
-- [ ] **Contribuindo em um Projeto Open Source no GitHub**
+- [X] Trabalhando em Equipes Ágeis
+- [X] Versionamento de Código com Git e GitHub
+- [X] Desafios de Projetos: Crie Um Portfólio Vencedor
+- [X] **Contribuindo em um Projeto Open Source no GitHub**
 
 <br/>
 
 # #2 Introdução a Lógica de Programação
 
-- [ ] Introdução aos Conceitos Básicos em Lógica de Programação
-- [ ] Entendendo Algoritmos e Fluxogramas
-- [ ] Estrutura de um Software e Seu Ambiente de Desenvolvimento
-- [ ] Trabalhando com Variáveis
-- [ ] Criando e Manipulando Vetores e Matrizes
-- [ ] Parabéns Por Dominar os Conceitos Básicos
+- [X] Introdução aos Conceitos Básicos em Lógica de Programação
+- [X] Entendendo Algoritmos e Fluxogramas
+- [X] Estrutura de um Software e Seu Ambiente de Desenvolvimento
+- [X] Trabalhando com Variáveis
+- [X] Criando e Manipulando Vetores e Matrizes
+- [X] Parabéns Por Dominar os Conceitos Básicos
 
 <br/>
 
 # #3 Explorando Operadores
 
-- [ ] Introdução ao Mundo de Operadores De Programação
-- [ ] Entendendo Operadores e Expressões
+- [X] Introdução ao Mundo de Operadores De Programação
+- [X] Entendendo Operadores e Expressões
 - [ ] Trabalhando Com Operadores Aritméticos
 - [ ] Trabalhando Com Operadores de Comparação
 - [ ] Trabalhando Com Operadores Lógicos
@@ -40,20 +40,7 @@ Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
 
 <br/>
 
-# #3 Dominando Estruturas de Controle
-
-- [ ] Teste
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
-<br/>
-
 # #4 Dominando Estruturas de Controle
-
-
 
 - [ ] Introdução as Estruturas de Controle
 - [ ] Trabalhando Com Estruturas Condicionais (if, else if, else)
