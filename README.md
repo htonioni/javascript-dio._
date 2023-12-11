@@ -3,9 +3,7 @@ Bem vindo!
 <br/>Este repositório é destinado ao conteúdo do
 <h1><img height="300vh" src="img/logo.webp"></h1>
 Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
-<!-- <h3>Andamento do Processo:</h3>
-<img height="300vh" src="#"> -->
-<!-- https://github.com/leticiapalaro/Bootcamp-Potencia-Tech-powered-by-iFood/tree/main -->
+<h3>Andamento do Processo:</h3>
 </div>
 
 # #1 Princípios de Desenvolvimento Ágil e Colaborativo
@@ -64,8 +62,8 @@ Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
 
 # #6 Aprimorando Sua Lógica de Programação com Desafios de Código
 
-- [ ] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
-- [ ] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.]()
+- [X] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+- [X] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/posHeroi.js)
 - [ ] **Desafio:** Dominando Operadores com JavaScript [Clique aqui para acessar o Código.]()
 - [ ] **Desafio:** Explorando Condicionais com JavaScript [Clique aqui para acessar o Código.]()
 - [ ] **Desafio:** Praticando Laços de Repetição com JavaScript [Clique aqui para acessar o Código.]()
