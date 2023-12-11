@@ -33,32 +33,32 @@ Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
 
 - [X] Introdução ao Mundo de Operadores De Programação
 - [X] Entendendo Operadores e Expressões
-- [ ] Trabalhando Com Operadores Aritméticos
-- [ ] Trabalhando Com Operadores de Comparação
-- [ ] Trabalhando Com Operadores Lógicos
-- [ ] Parabéns Por Dominar Os Operadores
+- [X] Trabalhando Com Operadores Aritméticos
+- [X] Trabalhando Com Operadores de Comparação
+- [X] Trabalhando Com Operadores Lógicos
+- [X] Parabéns Por Dominar Os Operadores
 
 <br/>
 
 # #4 Dominando Estruturas de Controle
 
-- [ ] Introdução as Estruturas de Controle
-- [ ] Trabalhando Com Estruturas Condicionais (if, else if, else)
-- [ ] Trabalhando Com Estruturas de Decisão (Estrutura Switch Case)
-- [ ] Trabalhando Com Estruturas de Repetição (for, while, do-while)
-- [ ] **Desafio:** Classificador de Nível de Herói [Clique aqui para acessar o Código.](/tree/main/desafios-de-projeto/nivelHeroi.js)
-- [ ] Parabéns Por Dominar as Estruturas de Controle
+- [X] Introdução as Estruturas de Controle
+- [X] Trabalhando Com Estruturas Condicionais (if, else if, else)
+- [X] Trabalhando Com Estruturas de Decisão (Estrutura Switch Case)
+- [X] Trabalhando Com Estruturas de Repetição (for, while, do-while)
+- [X] **Desafio:** Classificador de Nível de Herói [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-projeto/nivelHeroi.js)
+- [X] Parabéns Por Dominar as Estruturas de Controle
 
 <br/>
 
 # #5 Trabalhando com Funções
 
-- [ ] Introdução ao Mundo de Funções
-- [ ] O Que São Funções e Como Criar
-- [ ] Funções com Parâmetros
-- [ ] Funções com Retorno
-- [ ] **Desafio:** Calculadora de Partidas Rankeadas [Clique aqui para acessar o Código.](/tree/main/desafios-de-projeto/calculadoraPartidas.js)
-- [ ] Parabéns Por Dominar Funções
+- [X] Introdução ao Mundo de Funções
+- [X] O Que São Funções e Como Criar
+- [X] Funções com Parâmetros
+- [X] Funções com Retorno
+- [X] **Desafio:** Calculadora de Partidas Rankeadas [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-projeto/calculadoraPartidas.js)
+- [X] Parabéns Por Dominar Funções
 
 <br/>
 
