@@ -89,6 +89,5 @@ Bem vindo!
     </a>
     <a href = "mailto:htonioni@outlook.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
     <img src="https://hermes.digitalinnovation.one/certificates/cover/9DB4BADB.jpg">
-    <img height="200vh" src=""><br>
 
 </div>
