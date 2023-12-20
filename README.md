@@ -63,22 +63,22 @@ Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
 # #6 Aprimorando Sua Lógica de Programação com Desafios de Código
 
 - [X] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
-- [X] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/posHeroi.js)
-- [ ] **Desafio:** Dominando Operadores com JavaScript [Clique aqui para acessar o Código.]()
-- [ ] **Desafio:** Explorando Condicionais com JavaScript [Clique aqui para acessar o Código.]()
-- [ ] **Desafio:** Praticando Laços de Repetição com JavaScript [Clique aqui para acessar o Código.]()
-- [ ] **Desafio:** Dominando Funções com JavaScript [Clique aqui para acessar o Código.]()
+- [X] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#1.js)
+- [X] **Desafio:** Dominando Operadores com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#2.js)
+- [X] **Desafio:** Explorando Condicionais com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#3.js)
+- [X] **Desafio:** Praticando Laços de Repetição com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#4.js)
+- [X] **Desafio:** Dominando Funções com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#5.js)
 
 <br/>
 
 # #7 Estruturas de Dados e Objetos
 
-- [ ] Introdução Ao Mundo Dos Objetos
-- [ ] Estrutura de Dados JSON
-- [ ] O Que São Classes e Objetos
-- [ ] **Desafio:** Escrevendo as Classes de Um Jogo [Clique aqui para acessar o Código.]()
-- [ ] Parabéns Por Dominar as Estruturas de Dados
-- [ ] Avalie o Bootcamp Potência Tech iFood
+- [X] Introdução Ao Mundo Dos Objetos
+- [X] Estrutura de Dados JSON
+- [X] O Que São Classes e Objetos
+- [X] **Desafio:** Escrevendo as Classes de Um Jogo [Clique aqui para acessar o Código.]()
+- [X] Parabéns Por Dominar as Estruturas de Dados
+- [X] Avalie o Bootcamp Potência Tech iFood
 
 <br/>
 
@@ -87,7 +87,7 @@ Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
     <a href="https://www.linkedin.com/in/htonioni/" target="_blank"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/linkedin.png?raw=true" target="_blank">
     </a>
     <a href = "mailto:htonioni@outlook.com"><img height="25vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/contato.png?raw=true" target="_blank"></a><br>
-    <img src="https://hermes.digitalinnovation.one/certificates/cover/.jpg">
+    <img src="https://hermes.digitalinnovation.one/certificates/cover/9DB4BADB.jpg">
     <img height="200vh" src=""><br>
 
 </div>
