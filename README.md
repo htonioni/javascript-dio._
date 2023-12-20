@@ -1,8 +1,9 @@
 <div align="center">
 Bem vindo!
 <br/>Este repositório é destinado ao conteúdo do
+<p>Bootcamp Potência Tech iFood <br/> <b><i>Programação do Zero </i></b></h1></p>
 <h1><img height="300vh" src="img/logo.webp"></h1>
-Bootcamp Potência Tech iFood <br/> < Programação do Zero /></h1>
+
 <h3>Andamento do Processo:</h3>
 </div>
 
