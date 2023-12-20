@@ -64,11 +64,11 @@ Bem vindo!
 # #6 Aprimorando Sua Lógica de Programação com Desafios de Código
 
 - [X] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
-- [X] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#1.js)
-- [X] **Desafio:** Dominando Operadores com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#2.js)
-- [X] **Desafio:** Explorando Condicionais com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#3.js)
-- [X] **Desafio:** Praticando Laços de Repetição com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#4.js)
-- [X] **Desafio:** Dominando Funções com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/#5.js)
+- [X] **Desafio:** Manipulando Variáveis com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/%231.js)
+- [X] **Desafio:** Dominando Operadores com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/%232.js)
+- [X] **Desafio:** Explorando Condicionais com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/%233.js)
+- [X] **Desafio:** Praticando Laços de Repetição com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/%234.js)
+- [X] **Desafio:** Dominando Funções com JavaScript [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/%235.js)
 
 <br/>
 
@@ -77,7 +77,7 @@ Bem vindo!
 - [X] Introdução Ao Mundo Dos Objetos
 - [X] Estrutura de Dados JSON
 - [X] O Que São Classes e Objetos
-- [X] **Desafio:** Escrevendo as Classes de Um Jogo [Clique aqui para acessar o Código.]()
+- [X] **Desafio:** Escrevendo as Classes de Um Jogo [Clique aqui para acessar o Código.](https://github.com/htonioni/javascript-dio._/blob/main/desafios-de-codigo/%236.js)
 - [X] Parabéns Por Dominar as Estruturas de Dados
 - [X] Avalie o Bootcamp Potência Tech iFood
 
